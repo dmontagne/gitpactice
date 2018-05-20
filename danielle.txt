@@ -1,2 +1,21 @@
-Have a nice day
-Im not as creative as Annie
+Steps:
+
+Go into the directory on the command line
+
+git init - tells git to watch the directory 
+
+Save the file on the computer
+
+Then to save to git:
+git status
+
+Then
+git add .
+
+Then to commit:
+
+git commit -m "Message about the change"
+
+"git log" shows all the changes
+
+   
