@@ -19,3 +19,5 @@ git commit -m "Message about the change"
 "git log" shows all the changes
 
    
+git branch
+git checkout -b another_branch  
